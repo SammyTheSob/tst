@@ -1,0 +1,97 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilebutton_11 */
+#Mapa_mobilebutton_11 {
+
+}
+.ui-btn.Mapa_mobilebutton_11 {
+
+}
+/* mobilecontainer1 */
+.ui-content.Mapa_mobilecontainer1 {
+	padding: 15px 15px 15px 15px;
+}
+/* mobileworkarea_10*/
+.Mapa_mobileworkarea_10 {
+	background-color: transparent;
+	padding: 0px;
+}
+/* mobilebutton_20 */
+#Mapa_mobilebutton_20 {
+
+}
+.ui-btn.Mapa_mobilebutton_20 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilelabel_12 */
+.Mapa_mobilelabel_12 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilelabel_13 */
+.Mapa_mobilelabel_13 {
+	text-decoration: none; font-weight: normal; text-align: left; font-family: Helvetica; font-size: 14px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* googlemap_16 */
+.Mapa_googlemap_16 {
+	width: 320px; height: 290px;
+	margin: 4px 0px 4px 0px;
+}
+/* marker_17 */
+.Mapa_marker_17 {
+	text-shadow:none;
+	color:black;
+	font-family:Arial;
+}
+/* mobilelabel_18 */
+.Mapa_mobilelabel_18 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilelabel_19 */
+.Mapa_mobilelabel_19 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilefooter1 */
+.Mapa_mobilefooter1 {
+	min-height:38px;
+}
+/* panel_menu */
+.Mapa_panel_menu .ui-panel-inner {
+	padding: 0px 15px 15px 15px;
+}
+.Mapa_panel_menu:focus {
+	outline: 0;
+}
+/* mobilelist_3 */
+.ui-page .Mapa_mobilelist_3 {
+	margin: 0px -15px 0px -15px;
+}
+/* mobilelistitem_4 */
+/* mobilelistitembutton_5 */
+.Mapa_mobilelistitembutton_5 {
+
+}
+/* mobilelistitem_6 */
+/* mobilelistitembutton_7 */
+.Mapa_mobilelistitembutton_7 {
+
+}
+/* mobilelistitem_8 */
+/* mobilelistitembutton_9 */
+.Mapa_mobilelistitembutton_9 {
+
+}
